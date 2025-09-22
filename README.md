@@ -7,7 +7,7 @@ The objective of this project is to familiarize yourself with communicating with
 Write a program to print the operating system info using any language you like.
 
 ## Implementation
-print the name and the version of your operating system.
+Print the name and the version of your operating system.
 
 ## Submission 
 - Fork the project and add your code to it.
