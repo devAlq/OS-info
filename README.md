@@ -12,6 +12,6 @@ Print the name and the version of your operating system.
 ## Submission 
 - Fork the project and add your code to it.
 - Submit a pull request when you complete the project.
-- Create an issue of your questions if you face any trouble solving the project.
+- Create an issue with your questions if you face any trouble solving the project.
 
 
